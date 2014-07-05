@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="actionbar_text_size">16sp</dimen>
+
+</resources>
