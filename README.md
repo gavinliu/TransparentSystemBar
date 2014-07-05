@@ -9,7 +9,6 @@ winParams.flags |= WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION;
 win.setAttributes(winParams);
 ```
 or       
-```   
 ```xml
 <style name="Translucent.SystemBar" parent="@android:style/Theme.Holo.Light">
     <item name="android:windowTranslucentStatus">true</item>
